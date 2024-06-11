@@ -1,7 +1,7 @@
-Flask
-imutils
-Keras
-opencv-python
-Pillow
-tensorflow
-scikit-image
+Flask==2.1.1
+imutils==0.5.4
+Keras==2.4.3
+opencv-python==4.5.3.56
+Pillow==9.1.0
+tensorflow==2.8.0
+scikit-image==0.19.1
