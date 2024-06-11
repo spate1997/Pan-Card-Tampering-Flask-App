@@ -1,6 +1,6 @@
 Flask
 imutils
-opencv-python==4.5.5.64
+opencv-python-headless
 Pillow
 scikit-image
 gunicorn
